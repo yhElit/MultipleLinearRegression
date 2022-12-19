@@ -1,5 +1,5 @@
 
-# CNN
+# Multiple Linear Regression
 Implementation and testing of a basic version of a Multiple Linear Regression in Python
 
 **Note:**
